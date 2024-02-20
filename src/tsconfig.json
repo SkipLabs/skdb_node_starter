@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "outDir": "../dist",
+    "baseUrl": ".",
+    "strictNullChecks": true,
+    "module": "nodenext",
+    "jsx": "react-jsx",
+    "declaration": true,
+    "declarationMap": true
+  }
+}
